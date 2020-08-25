@@ -1,0 +1,9 @@
+The dataset for project is taken for Intel Image Classification project on kaggle.
+In this Project, we are classifying images as forest,building.street,sea,mountains,glacier
+To use the notebook upload it on kaggle as a kernel.
+The size of image used in different algorithms is specified in the kernel and use accordingly.
+There are two notebooks one for visualisation of the dataset and other for classification system.
+Also a presentation is attached of the results.
+The code is not well structured (will edit in coming time)
+
+ 
